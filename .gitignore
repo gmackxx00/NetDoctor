@@ -1,0 +1,3 @@
+# Runtime reports written next to the exe
+NetDoctor-report-*.txt
+NetDoctor-fixlog.txt
